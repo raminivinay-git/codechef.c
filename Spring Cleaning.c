@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    
+    int x, y;
+    
+    scanf("%d %d", & x, & y);
+    
+    printf("%d", x * 30 + y * 60);
+    
+    return 0;
+    
+}
